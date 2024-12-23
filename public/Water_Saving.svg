@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g stroke-width="1" transform="translate(0.5, 0.5)"><line data-color="color-2" fill="none" stroke="#69b236" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="21" y1="2" x2="37" y2="2" stroke-linejoin="miter"></line>
+<line data-color="color-2" fill="none" stroke="#69b236" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" x1="29" y1="9" x2="29" y2="2" stroke-linejoin="miter"></line>
+<path data-color="color-2" fill="none" stroke="#69b236" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" d="M4,41.8
+	C4,39.2,8,35,8,35s4,4.2,4,6.8c0,2.7-2,4.2-4,4.2S4,44.5,4,41.8z" stroke-linejoin="miter"></path>
+<path data-cap="butt" fill="none" stroke="#296647" stroke-width="1" stroke-miterlimit="10" d="M23.25492,20H18
+	c-3.30859,0-6,2.69141-6,6v2H4v-2c0-7.71973,6.28027-14,14-14h5.25475" stroke-linejoin="miter" stroke-linecap="butt"></path>
+<polyline data-cap="butt" fill="none" stroke="#296647" stroke-width="1" stroke-miterlimit="10" points="34.74519,12 44,12 44,20 
+	34.7452,20 " stroke-linejoin="miter" stroke-linecap="butt"></polyline>
+<circle fill="none" stroke="#296647" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="29" cy="16" r="7" stroke-linejoin="miter"></circle></g></svg>
